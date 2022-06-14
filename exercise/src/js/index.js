@@ -11,3 +11,4 @@ const searchPokemon = (name) => {
 };
 
 searchPokemon('limber');
+searchPokemon('lim');
